@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aklimas&label=Profile%20views&color=0e75b6&style=flat" alt="aklimas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aklimas" alt="aklimas" /></a> </p>
+- 💬 Ask me about **symfony, php**
+
+- 📫 How to reach me **klimas.adam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adam-klimas-a6b40083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-klimas-a6b40083" height="30" width="40" /></a>
+<a href="https://fb.com/klimas.adam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="klimas.adam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
